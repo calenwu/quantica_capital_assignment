@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  quantica:
+    build:
+      context: .
+      dockerfile: Dockerfile-j
+    volumes:
+      - .:/home/jovyan/work
+    ports:
+      - '8888:8888'
