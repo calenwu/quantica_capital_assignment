@@ -1,8 +1,6 @@
 # Assignment
 I was given this as a take home assignment for some junior swe position.
 
-======================================
-
 ## Goal of the assignment
 
 Implement a script that can calculate the value and performance of a portfolio of ETFs over time derived from a CSV file containing transaction data.
